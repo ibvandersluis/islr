@@ -70,7 +70,7 @@ y=rnorm(100)
 plot(x,y)
 # Plot x and y with labels
 plot(x,y,xlab="this is the x-axis",ylab="this is the y-axis",main="Plot of X vs Y")
-# Save as .pdf!
+# Save as .pdf
 # Create empty .pdf file
 pdf("Figure.pdf")
 # Make a plot for the .pdf
